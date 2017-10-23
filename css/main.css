@@ -97,21 +97,142 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* Base Styles */
+.full-width {
 
+}
 
+.half-width {
 
+}
 
+.third-width {
 
+}
 
+/* Header Area */
+header {
 
+}
 
+header .full-width {
 
+}
 
+header .half-width {
 
+}
 
+h1 {
 
+}
 
+nav {
 
+}
+
+nav ul {
+
+}
+
+nav ul li {
+
+}
+
+/* Top Section */
+#top {
+
+}
+
+#top .full-width{
+
+}
+
+#top img {
+
+}
+
+#top h2 {
+
+}
+
+#top p {
+
+}
+
+/* Bottom Section */
+#bottom {
+
+}
+
+#bottom .full-width {
+
+}
+
+#bottom .third-width {
+
+}
+
+#bottom h3 {
+
+}
+
+#specials {
+
+}
+
+#specials h3 {
+
+}
+
+#specials ul {
+
+}
+
+#specials ul li {
+
+}
+
+#reviews {
+
+}
+
+#reviews h3 {
+
+}
+
+#reviews p {
+
+}
+
+#contact {
+
+}
+
+#contact h3 {
+
+}
+
+#contact p {
+
+}
+
+/* Footer Area */
+footer {
+
+}
+
+footer .full-width {
+
+}
+
+footer h2 {
+
+}
+
+footer span {
+
+}
 
 
 /* ==========================================================================
