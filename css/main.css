@@ -97,6 +97,12 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* fonts */
+@font-face {
+  font-family: Wisdom Script;
+  src: url('fonts/wisdom_script.otf') format('opentype');
+}
+
 /* Base Styles */
 .full-width {
 
