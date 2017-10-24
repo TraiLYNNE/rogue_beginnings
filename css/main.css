@@ -148,14 +148,6 @@ nav ul li {
 }
 
 /* Top Section */
-#top {
-
-}
-
-#top .full-width{
-
-}
-
 #top img {
   border-bottom: 5px solid #77a466;
 }
@@ -165,10 +157,15 @@ nav ul li {
   color: #77a466;
   margin-top: 30px;
   text-transform: uppercase;
+  margin-left: 5px;
 }
 
 #top p {
-
+  font-size: 16px;
+  line-height: 25px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 30px;
 }
 
 /* Bottom Section */
