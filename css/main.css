@@ -170,7 +170,7 @@ nav ul li {
 
 /* Bottom Section */
 #bottom {
-
+  margin-top: 40px;
 }
 
 #bottom .full-width {
@@ -182,23 +182,30 @@ nav ul li {
 }
 
 #bottom h3 {
-
+  font-size: 9px;
+  text-transform: uppercase;
 }
 
 #specials {
-
+    padding-bottom: 60px;
 }
 
 #specials h3 {
-
+  padding-top: 30px;
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
 }
 
 #specials ul {
-
+  margin-top: 28px;
+  list-style: none;
+  padding: 0;
 }
 
 #specials ul li {
-
+  margin-bottom: 24px;
+  color: #77a466;
+  font-size: 12px;
 }
 
 #reviews {
