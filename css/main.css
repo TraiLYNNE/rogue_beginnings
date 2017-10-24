@@ -161,7 +161,10 @@ nav ul li {
 }
 
 #top h2 {
-
+  font-size: 14px;
+  color: #77a466;
+  margin-top: 30px;
+  text-transform: uppercase;
 }
 
 #top p {
