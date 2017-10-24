@@ -120,21 +120,15 @@ textarea {
 }
 
 /* Header Area */
-header {
-
-}
-
 header .full-width {
   overflow: auto;
   border-bottom: 5px solid #77a466;
-}
-
-header .half-width {
-
+  text-transform: uppercase;
 }
 
 h1 {
   font-size: 24px;
+  padding: 40px 0;
 }
 
 h1 span {
@@ -142,15 +136,15 @@ h1 span {
 }
 
 nav {
-
-}
-
-nav ul {
-
+  float: right;
+  padding: 45px 0;
 }
 
 nav ul li {
-
+  font-size: 12px;
+  display: inline-block;
+  color: #77a466;
+  padding-left: 23px;
 }
 
 /* Top Section */
