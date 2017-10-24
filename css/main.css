@@ -125,7 +125,8 @@ header {
 }
 
 header .full-width {
-
+  overflow: auto;
+  border-bottom: 5px solid #77a466;
 }
 
 header .half-width {
@@ -137,7 +138,7 @@ h1 {
 }
 
 h1 span {
-  
+
 }
 
 nav {
