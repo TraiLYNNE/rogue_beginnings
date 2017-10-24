@@ -134,11 +134,11 @@ header .half-width {
 }
 
 h1 {
-
+  font-size: 24px;
 }
 
 h1 span {
-
+  color: #77a466;
 }
 
 nav {
