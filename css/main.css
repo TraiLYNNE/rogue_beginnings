@@ -174,10 +174,6 @@ nav ul li {
   margin-top: 40px;
 }
 
-#bottom .full-width {
-
-}
-
 #bottom .third-width {
   height: 210px;
   border-top: 1px solid grey;
@@ -185,7 +181,7 @@ nav ul li {
 
 #bottom h3 {
   padding-top: 30px;
-  font-size: 9px;
+  font-size: 12px;
   text-transform: uppercase;
 }
 
@@ -193,23 +189,18 @@ nav ul li {
     border-right: 1px solid grey;
 }
 
-#specials h3 {
-
-}
-
 #specials ul {
-  margin-top: 28px;
+  margin-top: 25px;
   list-style: none;
   padding: 0;
 }
 
 #specials ul li {
-  margin-bottom: 24px;
+  margin-bottom: 10px;
   color: #77a466;
 }
 
 #reviews {
-  border-top: 1px solid grey;
   border-right: 1px solid grey;
 }
 
@@ -223,16 +214,12 @@ nav ul li {
   line-height: 20px;
 }
 
-#contact {
-
-}
-
 #contact h3 {
-
+  padding-left: 30px;
 }
 
 #contact p {
-
+  padding-left: 30px;
 }
 
 /* Footer Area */
